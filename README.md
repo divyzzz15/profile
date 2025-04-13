@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=0366D6&center=true&vCenter=true&multiline=true&random=false&width=1000&height=100&lines=Divya;Aspiring+Software+Developer" alt="Name and title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=0366D6&center=true&vCenter=true&multiline=true&random=false&width=1000&height=100&lines=Divya+M;Aspiring+Software+Developer;First+Year+Engineering+Student" alt="Name and title" />
 </h1>
 
 ---
@@ -8,16 +8,17 @@
   <table>
     <tr>
       <td width="50%">
-        <h3>👨‍💻 <b>Software Developer in the Making</b></h3>
-        <p>Passionate about turning logic into real-world solutions using Python, HTML, and C programming. Currently exploring full-stack development and loving the journey!</p>
-        <!-- This will show most used languages (after pushing code) -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya M &layout=compact&langs_count=6&theme=algolia&hide_border=true" alt="Language stats" />
+        <h3>👩‍💻 <b>First-Year Software Developer</b></h3>
+        <p>Hello! I'm Divya M, a first-year engineering student passionate about building a strong foundation in software development. I'm currently learning Python, C programming, and HTML — and enjoying every step of the journey!</p>
+        <!-- GitHub language stats (replace 'your-github-username' if needed) -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=6&theme=algolia&hide_border=true" alt="Language stats" />
+        <br />
+        <a href="https://www.linkedin.com/in/divya-m-527060360/">
+          <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
       </td>
       <td width="50%">
         <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="100%" alt="Coding animation" />
-        <div align="center">
-          <a href="https://www.linkedin.com/in/divya-m-527060360/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        </div>
       </td>
     </tr>
   </table>
@@ -27,7 +28,8 @@
 
 <h2 align="center">🏆 Achievements</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=divya&theme=algolia&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="trophy" />
+  <p>🎉 Recently participated and won a quiz game at the Taksha Event held at Karpagam College.</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=algolia&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
 </div>
 
 ---
@@ -63,4 +65,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-

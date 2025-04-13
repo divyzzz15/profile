@@ -11,13 +11,12 @@
         <h3>👨‍💻 <b>Software Developer in the Making</b></h3>
         <p>Passionate about turning logic into real-world solutions using Python, HTML, and C programming. Currently exploring full-stack development and loving the journey!</p>
         <!-- This will show most used languages (after pushing code) -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya&layout=compact&langs_count=6&theme=algolia&hide_border=true" alt="Language stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya M &layout=compact&langs_count=6&theme=algolia&hide_border=true" alt="Language stats" />
       </td>
       <td width="50%">
         <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="100%" alt="Coding animation" />
         <div align="center">
-          <a href="https://x.com/divya"><img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-          <a href="https://www.linkedin.com/in/divya"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+          <a href="https://www.linkedin.com/in/divya-m-527060360/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         </div>
       </td>
     </tr>

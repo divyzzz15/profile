@@ -9,9 +9,8 @@
     <tr>
       <td width="50%">
         <h3>👩‍💻 <b>First-Year Software Developer</b></h3>
-        <p>Hello! I'm Divya M, a first-year engineering student passionate about building a strong foundation in software development. I'm currently learning Python, C programming, and HTML — and enjoying every step of the journey!</p>
-        <!-- GitHub language stats (replace 'your-github-username' if needed) -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=6&theme=algolia&hide_border=true" alt="Language stats" />
+        <p>Hello! I'm Divya M, a first-year engineering student passionate about building a strong foundation in software development. I enjoy working with <strong>Python</strong> the most, and I'm also learning C programming and HTML. Every day, I'm exploring more about coding and web development!</p>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=6&theme=algolia&hide_border=true&hide=javascript,typescript" alt="Language stats" />
         <br />
         <a href="https://www.linkedin.com/in/divya-m-527060360/">
           <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
